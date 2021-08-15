@@ -392,9 +392,9 @@ On worker-2:
 > Remember to run the above commands on worker node: `worker-2`
 
 
-## Step 9 Approve Server CSR
+## Step 9 Approve Server CSR on master-1:
 
-`master-1$ kubectl get csr`
+` kubectl get csr`
 
 ```
 NAME                                                   AGE   REQUESTOR                 CONDITION
