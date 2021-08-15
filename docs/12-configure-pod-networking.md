@@ -28,7 +28,7 @@ Weave uses POD CIDR of `10.32.0.0/12` by default.
 List the registered Kubernetes nodes from the master node:
 
 ```
-master-1$ kubectl get pods -n kube-system
+ kubectl get pods -n kube-system
 ```
 
 > output
