@@ -110,7 +110,7 @@ stringData:
   token-secret: f395accd246ae52d
 
   # Expiration. Optional.
-  expiration: 2021-03-10T03:22:11Z
+  expiration: 2023-07-07T03:22:11Z
 
   # Allowed usages.
   usage-bootstrap-authentication: "true"
