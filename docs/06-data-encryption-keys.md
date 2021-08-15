@@ -40,6 +40,7 @@ for instance in master-1 master-2; do
 done
 ```
 
+WONT WORK!!!
 Move `encryption-config.yaml` encryption config file to appropriate directory.
 
 ```
