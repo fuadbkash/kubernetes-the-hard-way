@@ -166,7 +166,7 @@ EOF
 Create the `kubelet.service` systemd unit file:
 
 ```
-worker-1$ cat <<EOF | sudo tee /etc/systemd/system/kubelet.service
+ cat <<EOF | sudo tee /etc/systemd/system/kubelet.service
 [Unit]
 Description=Kubernetes Kubelet
 Documentation=https://github.com/kubernetes/kubernetes
